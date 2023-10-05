@@ -10,7 +10,7 @@
 - 🚀 React and React Native developer
 - 🎭 Professional actor
 - 🌱 Always learning
-- 🙉 Hobbies include, Acting, Movies, Stage-combat and Sports 🥊
+- 🙉 Hobbies: Acting, Movies, Stage Combat and Sports 🥊
 
 <br><br>
 <br><br>
