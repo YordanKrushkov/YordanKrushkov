@@ -1,16 +1,18 @@
+## [![Yordan's cover](https://github.com/YordanKrushkov/YordanKrushkov/blob/main/cover.png)](https://github.com)
+
+<br>
+
 ### Hi there 👋
 
-<!--
-**YordanKrushkov/YordanKrushkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<br>
 
-Here are some ideas to get you started:
+- 💻 Full-Stack JavaScript developer
+- 🚀 React and React Native developer
+- 🎭 Professional actor
+- 🌱 Always learning
+- 🙉 Hobbies include, Acting, Movies, Stage-combat and Sports 🥊
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<br><br>
+<br><br>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/?username=yordankrushkov&theme=dracula" />
