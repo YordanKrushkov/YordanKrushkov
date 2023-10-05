@@ -2,7 +2,7 @@
 
 <br>
 
-### Hi there 👋
+### Hi there, I am Yordan 👋
 
 <br>
 
