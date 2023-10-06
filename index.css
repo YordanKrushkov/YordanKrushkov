@@ -1,0 +1,16 @@
+/* styles.css */
+
+/* Remove borders from all table cells */
+table {
+  border-collapse: collapse;
+}
+
+table, th, td {
+  border: none;
+  padding: 8px; /* Add padding to cells for spacing */
+}
+
+/* Define specific border styles if needed */
+/* table, th, td {
+  border: 1px solid black;
+} */
